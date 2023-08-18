@@ -1,7 +1,7 @@
 import "./App.css";
 import { BrowserRouter as Router, Route,Routes} from "react-router-dom";
 import Join from "./component/Join/Join";
-import Chat from "./component/Chat/chat";
+import Chat from "./component/Chat/Chat";
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Join />} />
-          <Route path="/chat" element={<Chat />}/>
+          <Route path="/Chat" element={<Chat />}/>
         </Routes>
       </Router>
     </div>
