@@ -9,7 +9,8 @@ import closeIcon from '../../images/closeIcon.png';
 
 let socket;
 
-const ENDPOINT = 'http://localhost:4500/';
+const ENDPOINT = 'https://j-sinterview.vercel.app/';
+// 'http://localhost:4500/'
 
 const Chat = () => {
 
