@@ -9,7 +9,7 @@ import closeIcon from '../../images/closeIcon.png';
 
 let socket;
 
-const ENDPOINT = 'https://chat-app-ukcl.vercel.app/';
+const ENDPOINT = 'https://chat-app-ukcl-pmmbkeq6y-sashgoel.vercel.app/';
 // 'http://localhost:4500/'
 
 const Chat = () => {
